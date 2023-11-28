@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/marcinj94/nestjs-template/compare/v0.0.1...v0.1.0) (2023-11-28)
+
+### Features
+
+- **config:** create releases by using standard-version package ([55b726c](https://github.com/marcinj94/nestjs-template/commit/55b726c2e8424774525e88da3f4b03f1077a3c20))
+
 ### 0.0.1 (2023-11-28)
 
 ### Features
