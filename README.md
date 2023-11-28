@@ -1,3 +1,21 @@
+NestJS v10 template
+
+TODO ::
+
+- aktualizacja README jak w nextjs-template
+- dodanie standard-version do generowania CHANGELOG'a
+- https://dev.to/ghacosta/definitive-guide-for-commitizen-commitlint-husky-3of9
+- wypuszczenie wersji
+
+- Dodany eslint z airBnb style guide (basic)
+- ogarniety prettier bez konfliktow z eslintem
+- dodany validate-branch-name package
+- husky wraz z paczkami .. test
+- ads
+- asd22
+- Husky poprawnie skonfigurowany ze wszystkich ->
+- WAŻNE::: najlepiej uruchamiać commity przez yarn save:commit
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
